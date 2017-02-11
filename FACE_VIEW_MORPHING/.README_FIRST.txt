@@ -1,0 +1,31 @@
+This is the guide to use the defined functions.
+
+> Find the three .m file 
+
+1) Face_Detection_through_Morphing ----Does view morphing and detects eyes and mouth 
+					in the morphed image. (multiple figures appear, dont worry)
+
+2)FaceMorphing---face morphing is for video output of pose variation.
+
+
+3)stillimage_morphing ---still image is for the still image output, also eye and mouth 
+			 detection in the morpher image
+
+
+> in the .m files u can change the image which will be subjected to morphing
+
+ >> Based on the requierement select the images
+    >>> example UP1 and DOWN1 FOR vertical pose variation
+    >>> t1 and t2 for horizontal pose variation
+
+ >> Run the code 
+ >> wait for a while  (3sec)
+    ..........................
+
+
+    >>> Observe the output video or the still image.
+
+>The results will also get stored in the host file
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> THANK YOU<<<<<<<<<<<<<<<<<<<<<<<<<<<<
